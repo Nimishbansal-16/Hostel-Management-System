@@ -1,1 +1,2 @@
-# cs207-hostel-management-
+# hostel-management-
+# This is a website for a hostel management system for IIT Indore which was made as part of a project. Students registered in IITI can login here and explore the facilities of all hostels, can file complaints, provide valuable suggesstions, edit their profile. Admin can also login where they have access to all student details and can acceess the complaints and suggesstions and work on them, they can also add/remove hostel staff, post notifications and events.
